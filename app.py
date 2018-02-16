@@ -53,4 +53,4 @@ def get_bot_response():
 
 
 if __name__ == "__main__":
-    app.run(host = '172.27.174.156', port=5000)
+    app.run()
