@@ -15,7 +15,7 @@ def get_bot_response():
     db_host = 'python1'
     db_name = 'projectdetails'
     db_user = 'sa'
-    db_password = 'techm123$'
+    db_password = '$'
     mudid='12345'
     weekno = re.findall('\d+',userText)
     req=userText.upper().find('TARGET')
